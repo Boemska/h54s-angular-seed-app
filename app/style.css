@@ -56,11 +56,6 @@
   right: 20px;
 }
 
-#debugWindow .collapsible {
-  overflow: hidden;
-  word-wrap: break-word;
-}
-
 #debugWindow .collapsible .hidden {
   height: 0;
 }
