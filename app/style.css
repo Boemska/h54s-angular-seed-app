@@ -58,6 +58,7 @@
 
 #debugWindow .collapsible {
   overflow: hidden;
+  word-wrap: break-word;
 }
 
 #debugWindow .collapsible .hidden {
