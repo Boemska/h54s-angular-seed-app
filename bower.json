@@ -15,12 +15,12 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.4.1",
-    "angular-animate": "~1.4.1",
-    "angular-route": "~1.4.1",
+    "angular": "~1.5.11",
+    "angular-animate": "~1.5.11",
+    "angular-route": "~1.5.11",
     "bootstrap": "~3.3.5",
     "bootstrap-validator": "~0.8.1",
-    "angular-sanitize": "~1.4.1",
+    "angular-sanitize": "~1.5.11",
     "h54s": "latest",
     "ngToast": "ngtoast#^2.0.0"
   }
